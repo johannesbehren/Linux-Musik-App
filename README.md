@@ -32,7 +32,7 @@ _Nachempfunden durch Minecraft_
 - Kein extra Ordner für speichern der Musikdateien an sich, sondern verlinkung der Ordner mit Musik drinnen (./Musik/*)
 
 ---
-Bilder (./Bilder/*.svg) und Text mit Eklärung
+Bilder (./Bilder/*.svg) und Eklärung
 ---
 
 ### Informationsleiste
@@ -47,7 +47,7 @@ Logo
 
 Titel
   - ![Multimedia](./Bilder/Multimedia.svg) Titelbild links neben dem Titel des offenen Ordners
-  - Der Name des offenen Ordners wird größer angezeigt
+  - Der Name des offenen Ordners wird angezeigt
 
 #### -- Rechte Seite --
 
@@ -79,7 +79,7 @@ Mag Ich
 Ornder
   1. ![Folder](./Bilder/Folder.svg) Wird im Ordner Bereich benutzt, für visuelles darstellen eines Ordners
   2. ![FolderAdd](./Bilder/FolderAdd.svg) Visuelle Hilfe, Ordner einzufügen
-      - Entweder einen Ordner aus dem System beifügen oder neuen Ordner erstellen 
+      - Entweder einen Ordner aus dem System einfügen oder neuen Ordner erstellen 
   3. ![FolderOpen](./Bilder/FolderOpen.svg) Visuelle Anzeige eines ausgewählten Ordners
 
 Pin
@@ -148,3 +148,38 @@ Rechte Seitenspalte
 
 Ersatzbild
   - ![FileText](./Bilder/FileText.svg) Ersatz Bild für nicht vorhandenen Text
+
+---
+Funktionen
+---
+
+
+![Search](./Bilder/Search.svg) Suche
+  - Ermöglicht es Dateien aus jeden Ordner zu finden und anzuzeigen, mit Informationen: Ort des Befindens und die Dauer dieser Datei
+  - Beim anklicken dieser Datei, wird die App den Ordner öffnen, zur Datei scrollen (sofern nicht sichtbar) und es markieren
+
+![Settings](./Bilder/Settings.svg) Einstellung
+  - Ermöglicht es die Farben des Hintergrund, Schrift und Bilder zu ändern
+  - Einstellung abspeichern und abrufen.
+
+![PlayerPhone](./Bilder/PlayerPhone.svg)
+  - Zeigt die App klein an
+  ![Vorschau Handy](./Vorschau%20Handy.svg)
+
+![PlayerPC](./Bilder/PlayerPC.svg) PC
+  - Zeigt die App groß an
+  ![Vorschau PC](./Voschau%20PC.svg)
+
+![FolderAdd](./Bilder/FolderAdd.svg) Ordner hinzufügen
+  - Ermöglicht es Ordner mit dem Inhalt (oder keinem) einzufügen und automatisch als verlinkung abzuspiechern
+
+![FileAdd](./Bilder/FileAdd.svg) Datei einfügen
+  - Ermöglicht es Dateien in dem offenem Ordner einzufügen
+
+![ImageInsert](./Bilder/ImageInsert.svg) Bilder einfügen
+  - Ermöglicht es Bild neben der Datei einzufügen, auch wenn ein Bild schon exestiert, kann dieses ersetzt werden
+
+![Favorite](./Bilder/Favorite.svg) Favorit
+  - Ermöglicht es einzelne Dateien in zu favorisieren und in dem Ordner "Favorten" als duplikat anzuzeigen
+
+---
