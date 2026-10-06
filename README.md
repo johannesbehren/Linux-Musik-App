@@ -146,40 +146,94 @@ Mag Ich
 Rechte Seitenspalte
   - ![SidebarRight](./Bilder/SidebarRight.svg) Zum Ein-/Ausklappen des Textes der zurzeit spielenden Datei
 
-Ersatzbild
+Dateitext Ersatz
   - ![FileText](./Bilder/FileText.svg) Ersatz Bild für nicht vorhandenen Text
 
 ---
-Funktionen
+Erklärungen
 ---
 
+Logo
+  - Eine vollständige und verständnisvolle Beschreibungen aller benutzbarer Objekte
+    1. Mit Worten beschriebene Bilder
+        - Beispiel: ![Music.svg](./Bilder/Music.svg) - Eine ausführliche Erklärung der Anwendungsfunktionsinformationen der Musik App
 
-![Search](./Bilder/Search.svg) Suche
-  - Ermöglicht es Dateien aus jeden Ordner zu finden und anzuzeigen, mit Informationen: Ort des Befindens und die Dauer dieser Datei
-  - Beim anklicken dieser Datei, wird die App den Ordner öffnen, zur Datei scrollen (sofern nicht sichtbar) und es markieren
+Titel
+  - Zeigt bildlich eine offene Playlist
 
-![Settings](./Bilder/Settings.svg) Einstellung
-  - Ermöglicht es die Farben des Hintergrund, Schrift und Bilder zu ändern
-  - Einstellung abspeichern und abrufen.
+Suche
+  1. Playlist Namen
+  2. Song Namen
 
-![PlayerPhone](./Bilder/PlayerPhone.svg)
-  - Zeigt die App klein an
-  ![Vorschau Handy](./Vorschau%20Handy.svg)
+Edetieren
+  - Eine eigene Anordnung der Playlists und Songs
+  - Position der Playlist, Songtext, Media
 
-![PlayerPC](./Bilder/PlayerPC.svg) PC
-  - Zeigt die App groß an
-  ![Vorschau PC](./Voschau%20PC.svg)
+Einstellungen
+  - Farben
+    1. Hintergrund
+    2. Schrift
+    3. Grenzen
+    4. Box
+    5. Bilder
+    6. Aktiv (:active)
+    7. Schweben (:hover)
+    8. Inaktiv
+  - Schriftart Auswahl
+  - Größe ändern
+    1. Schrift
+    2. Box
+    3. Bilder
 
-![FolderAdd](./Bilder/FolderAdd.svg) Ordner hinzufügen
-  - Ermöglicht es Ordner mit dem Inhalt (oder keinem) einzufügen und automatisch als verlinkung abzuspiechern
+Formate
+  - PC/Handy Ansicht ändern
 
-![FileAdd](./Bilder/FileAdd.svg) Datei einfügen
-  - Ermöglicht es Dateien in dem offenem Ordner einzufügen
+Seitenspalte
+  - Öffnet und schließt die Spalte
 
-![ImageInsert](./Bilder/ImageInsert.svg) Bilder einfügen
-  - Ermöglicht es Bild neben der Datei einzufügen, auch wenn ein Bild schon exestiert, kann dieses ersetzt werden
+Mag Ich
+  - Lagert alle mit ![Favoite](./Bilder/Favorite.svg) ausgewählten Songs
 
-![Favorite](./Bilder/Favorite.svg) Favorit
-  - Ermöglicht es einzelne Dateien in zu favorisieren und in dem Ordner "Favorten" als duplikat anzuzeigen
+Ornder
+  - Zeigt Liste von Ordnern an (mit / ohne Inhalt)
 
----
+Pin
+  - Bringt den ausgewählten Ordner / Datei an die oberste Stelle
+
+Vorher
+  - Spielt die davor stehende Datei ab.
+
+Start, Stop
+  - Startet (fortsetzen) die Datei
+  - Pausiert die Datei
+
+Nachher
+  - Spielt die nächste Datei ab
+
+Wiederholung
+  - Wiederholt die selbe Datei nach dem Ende von vorne
+
+Zufall
+  - Spielt eine zufällige Datei in dem selben Ordner
+
+DVD
+  - Anzeige der Bilddatei der spielenden Datei
+  - Ansonsten ist das ein Platzhalter
+
+Lautstärke
+  - Lautstärkeregelung der Datei
+
+Datei
+  - Kann benutzt werden, um Musikdateien in den offenen Ordner einzulegen
+
+Bilder
+  - Anzeige der Bilddatei der eingelegten Musikdatei
+  - Ansonsten ist das ein Platzhalter
+
+Liste
+  1. Zeigt die Musikdateien als eine Auflistung
+  2. Zeigt die Musikdateien in Kacheln an
+
+Dateitext Ersatz
+  - Ersetzt den nicht verfügbaren Text der Musikdatei an
+
