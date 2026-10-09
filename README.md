@@ -184,6 +184,10 @@ Einstellungen
     1. Schrift
     2. Box
     3. Bilder
+  - Animationen (Ideen werden gesucht)
+    1. Ausgeschaltet
+    2. Was an/aus sein soll
+    3. Allet an mache
 
 Formate
   - PC/Handy Ansicht ändern
@@ -237,3 +241,4 @@ Liste
 Dateitext Ersatz
   - Ersetzt den nicht verfügbaren Text der Musikdatei an
 
+---
