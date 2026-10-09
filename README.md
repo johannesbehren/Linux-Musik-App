@@ -185,7 +185,7 @@ Einstellungen
     2. Box
     3. Bilder
   - Animationen (Ideen werden gesucht)
-      1. Ausgeschaltet
+        1. Ausgeschaltet
     2. Was an/aus sein soll
     3. Allet an mache
 
